@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Tic Tac Toe Zero Star</string>
+    <string name="shared_preference">Shared Preference</string>
+    <string name="star">Star Win!!</string>
+    <string name="circle">Circle Win!!</string>
+    <string name="your_move">Your Move</string>
+    <string name="draw">Draw!!</string>
+    <string name="winner">Winner</string>
+    <string name="reset">Reset</string>
+    <string name="opponent">Opponent Move</string>
+    <string name="app_id_adds">ca-app-pub-123345</string>
+    <string name="banner_id">ca-app-pub-31234</string>
+    <string name="interstitial_id">ca-app-pub-123345</string>
+    <string name="loading">Loading.....</string>
+    <string name="tic_tac_toe_zero_star">Tic Tac Toe Zero Star</string>
+    <string name="select_mode">Select Mode</string>
+    <string name="two_player">Two Player</string>
+    <string name="single_player">Single Player</string>
+    <string name="easy">Easy</string>
+    <string name="hard">Hard</string>
+
+</resources>
